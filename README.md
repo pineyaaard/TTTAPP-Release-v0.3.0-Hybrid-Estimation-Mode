@@ -1,9 +1,15 @@
 # 🚀 TTTAP Core Engine (CAR DAMAGES AI ESTIMATOR) - v0.3.0
 
-**🎬 [▶️ WATCH LIVE DEMO VIDEO (Click Here to Play)](https://poletta.cz/video/demo.mov)**
+**🎬 Watch Demo Video:** 
+
+
+
+https://github.com/user-attachments/assets/ebbc4f2f-acb5-43fc-bf99-8cdb5cbd50c9
+
+
 
 **🏷 Version:** 0.3.0 (Alpha MVP)  
-**⚙️ Core Model:** Gemini 3 Flash (Vision) / Gemini 3.1 Pro (Search)  
+**⚙️ Core Model:** Gemini 3 Flash (Vision) / Gemini 3.1 Pro (Search)
 
 TTTAP Core is a hybrid AI engine designed for automated auto body repair estimation based on visual data (photos/videos). It is specifically tailored to the realities of the Czech automotive market (calculating in flat-rate labor hours / Normohodiny, where 1 Nh = 1000 Kč).
 
